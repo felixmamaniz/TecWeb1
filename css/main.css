@@ -8,12 +8,12 @@ body {
     font-size: 16px; 
     line-height: 32px;
     font-family:Ubuntu,sans-serif;
-    color:#381043;
+    color: gray;
 }
 
 h1 {
     font-size: 2rem;
-    color:#381043;
+    color: gray;
 }
 
 h2 {
