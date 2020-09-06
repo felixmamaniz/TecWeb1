@@ -13,7 +13,7 @@ body {
 
 h1 {
     font-size: 2rem;
-    color:#381043;
+    color: black;
 }
 
 h2 {
@@ -23,7 +23,6 @@ h2 {
 }
 
 header, main, footer {
-    background-color: gray;
     margin: 1.25rem auto;
     padding: .5rem;
     max-width: 600px;
@@ -31,7 +30,7 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color:#8A6694;
+    background-color: goldenrod;
     color: whitesmoke;
 }
 
