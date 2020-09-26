@@ -10,9 +10,13 @@ html {
     margin: 0 auto;
   }
   
-  h1, h2 {
+  h1{
     font-family: 'Faster One', cursive;
     color: red;
+  }
+
+  h2 {
+    font-family: 'Faster One', cursive;
   }
   
   /* header styles */
